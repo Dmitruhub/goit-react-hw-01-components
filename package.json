@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-one",
+  "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dmitruhub.github.io/react-homework-one/",
+  "homepage": "https://Dmitruhub.github.io/goit-react-hw-01-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
